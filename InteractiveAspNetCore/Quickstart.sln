@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "src\Client\Client
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcClient", "src\MvcClient\MvcClient.csproj", "{42123F24-DEBC-4C88-A376-C3B0BD8B94F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptClient", "src\JavaScriptClient\JavaScriptClient.csproj", "{072FFAA5-43AA-4E5F-9CBA-080677E4983D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,18 @@ Global
 		{42123F24-DEBC-4C88-A376-C3B0BD8B94F3}.Release|x64.Build.0 = Release|Any CPU
 		{42123F24-DEBC-4C88-A376-C3B0BD8B94F3}.Release|x86.ActiveCfg = Release|Any CPU
 		{42123F24-DEBC-4C88-A376-C3B0BD8B94F3}.Release|x86.Build.0 = Release|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Debug|x64.Build.0 = Debug|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Debug|x86.Build.0 = Debug|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Release|x64.ActiveCfg = Release|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Release|x64.Build.0 = Release|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Release|x86.ActiveCfg = Release|Any CPU
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +94,7 @@ Global
 		{4050A711-E812-4956-85A9-9695D23F7716} = {36D8896E-5D74-42E0-ACC0-2D3C77338FC5}
 		{C221DD72-7035-495B-BA6E-93B66798B623} = {36D8896E-5D74-42E0-ACC0-2D3C77338FC5}
 		{42123F24-DEBC-4C88-A376-C3B0BD8B94F3} = {36D8896E-5D74-42E0-ACC0-2D3C77338FC5}
+		{072FFAA5-43AA-4E5F-9CBA-080677E4983D} = {36D8896E-5D74-42E0-ACC0-2D3C77338FC5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CB21D14A-3014-489C-AA40-ECB18825ED7A}
