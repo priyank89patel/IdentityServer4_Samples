@@ -44,7 +44,7 @@ namespace IdentityServerAspNetIdentity
                     ClientSecrets = { new Secret("secret".Sha256()) },
 
                     AllowedGrantTypes = GrantTypes.Code,
-                    RequireConsent = false,
+                    RequireConsent = true,
                     RequirePkce = true,
                 
                     // where to redirect to after login
